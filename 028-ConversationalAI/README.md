@@ -42,12 +42,6 @@ Below is a diagram of the solution architecture you will build in this hack. Ple
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Git SCM](https://git-scm.com/download)
 
-## Repository Contents (Optional)
-- `../Student`
-  - Student Challenge Guides
-- `../Student/Resources`
-  - Student's resource files, code, and templates to aid with challenges
-
 ## Considerations
 
 If you are running this hack with a group, here are some options for providing access to Azure:
