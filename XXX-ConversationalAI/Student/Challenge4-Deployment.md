@@ -1,5 +1,5 @@
 # Challenge 4: Deploy the bot and integrate with teams
-
+[< Previous Challenge](./Challenge3-API.md) - **[Home](../readme.md)** - [Next Challenge>](./Challenge5-FrontEnd.md)
 ## Introduction
 Now that we've finished developing our bot locally we can deploy the bot. Deployment is key so that we can get the bot in the hands of our Testers to ensure our dialogs are robust enough. Fortunately, deployment is semi-built into the Bot Composer interface.
 	
