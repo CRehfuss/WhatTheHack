@@ -1,5 +1,5 @@
 # Challenge 7: CICD for your Bot Solution
-
+[< Previous Challenge](./Challenge6-ACS.md) - **[Home](../readme.md)** 
 ## Introduction
 Now that we've finished deployed our Bot into Azure. In order to make it productionized. The team need to automate CICD pipeline
 	

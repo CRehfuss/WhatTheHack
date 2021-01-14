@@ -1,4 +1,5 @@
 # Challenge 5: Embed your Bot to the sample Front End Web Application and enable Direct Line Speech
+[< Previous Challenge](./Challenge4-Deployment.md) - **[Home](../readme.md)** - [Next Challenge>](./Challenge6-ACS.md)
 
 ## Introduction
 Now that we've finished deployed our Bot into Azure. You can then enriching your Bot user interface through a sample web application and enabling speech capabilities of the Bot. 

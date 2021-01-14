@@ -1,5 +1,5 @@
 # Challenge 2 - Implementing LUIS
-
+[< Previous Challenge](./Challenge1-QnA.md) - **[Home](../readme.md)** - [Next Challenge>](./Challenge3-API.md)
 ## Introduction
 LUIS is a cloud-based conversational AI service that applies custom machine-learning intelligence to a user's conversational, natural language text to predict overall meaning, and pull out relevant, detailed information. LUIS easily integrated in the Bot Composer so that you can trigger a different dialog flow according to the intent of the User's utterance. 
 
