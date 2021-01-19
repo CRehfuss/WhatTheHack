@@ -6,7 +6,7 @@ QnA maker is a no code experience that allows you to create a natural conversati
 
 ## Description
 1. Create a QNA Maker resource at [QnaMaker.ai](https://www.qnamaker.ai/), you'll have to provision the resource in the Azure Portal.
-2. Build a knowledge base based off of the FSI Use Case document that is in this Github Repo. Upload the document, look at how the format was automatically uploaded, and fine tune as necessary
+2. Build a knowledge base based off of the [FSI Use Case document](./Resources/T20-FSI-ESG-BOT-ACS-IndustryUseCase.docx). Upload the document, look at how the format was automatically uploaded, and fine tune as necessary
 3. Ensure that you are using the multi-turn conversation feature so that when you ask - for example - " What Is Microsoft's ESG rating?" you have the option of clicking "Climate Change", "Human Capital", "Corporate Governance", and "Product Liability".
    - You should also include the option for "Return to previous" Conversation under each of those selections.
 4. Integrate the QnA maker knowledge base to your bot by selection "Connect to QnA KnowledgeBase" you'll need to know your keys and endpoint.
